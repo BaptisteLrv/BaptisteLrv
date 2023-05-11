@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @BaptisteLrv
-- 👀 I’m interested in python,css,html and I try to go in cybersecurity school 
+- 👀 I’m interested in python,css,html and LUA and i try to make best scripts on FiveM 
 - 🌱 I’m currently learning different languages 
 
 <!---
